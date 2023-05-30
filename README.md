@@ -1,0 +1,1 @@
+# Ejercicio-obligatorio-2-tema-7-Manejo-ERP-Odoo
